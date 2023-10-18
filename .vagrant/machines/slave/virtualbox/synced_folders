@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/shared":{"guestpath":"/home/vagrant/shared","hostpath":"C:/Users/user/Desktop/altschool_cloud_assignment/shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/user/Desktop/altschool_cloud_assignment","disabled":false,"__vagrantfile":true}}}
